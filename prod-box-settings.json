@@ -17,7 +17,12 @@
 	           "name" : "Test Field 3",
 	           "Format" : "Text",
 	           "Description" : "Test Field 3",
-	           "status" : "hidden"	       
+	           "status" : "visible"	       
+	       },{
+	           "name" : "Test Field 4",
+	           "Format" : "Text",
+	           "Description" : "This will be used for segmentation",
+	           "status" : "visible"	       
 	       }
 	       ]
 
