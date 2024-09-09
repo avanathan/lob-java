@@ -1,0 +1,40 @@
+{
+    "exportDate":"Sep 8, 2024 14:22 PDT",
+    "exportedBy" : "aavanathan",
+	"content": {
+	   "metadata": [{
+	       "name" : "Test Template",
+	       "status" : "visible",
+	       "fields" : [ {
+	           "name"  : "Test Field"
+	           "Format" : "Text",
+	           "Description" : "Test Field"
+	           "status" : "visible"
+	       }, {
+	           "name" : "Test Field 2",
+	           "Format" : "Number",
+	           "Description" : "Test Field"
+	           "status" : "hidden"	       
+	       }
+	       ]
+
+	   }, {
+	   	  "name" : "Dropdown Template",
+	       "status" : "visible",
+	       "fields" : [ {
+	           "name"  : "Test Dropdown Field"
+	           "Format" : "Dropdown - Single Select",
+	           "Description" : "Test Dropdown"
+	           "status" : "visible",
+	           "options" : ["Option 1", "Option 2"]
+	       }, {
+	           "name" : "Test Field 2",
+	           "Format" : "Number",
+	           "Description" : "Test Field"
+	           "status" : "hidden"	       
+	       }
+	       ]
+
+	   }]
+	}
+}
