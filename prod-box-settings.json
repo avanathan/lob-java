@@ -1,6 +1,4 @@
 {
-    "exportDate":"Sep 8, 2024 14:25 PDT",
-    "exportedBy" : "aavanathan",
 	"content": {
 	   "metadata": [{
 	       "name" : "Test Template",
@@ -34,7 +32,6 @@
 	           "status" : "hidden"	       
 	       }
 	       ]
-
 	   }]
 	}
 }
