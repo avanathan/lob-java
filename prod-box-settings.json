@@ -1,4 +1,10 @@
 {
+	"envelope" : {
+	    "hashid" : "1c6ea0441f8ac7b4b390c6ef63dd2ec6",
+	    "generatedDate": "9/8/2024 21:28 PDT"	
+	},
+	"body": 
+	{
 	"content": {
 	   "metadata": [{
 	       "name" : "Test Template",
@@ -44,4 +50,5 @@
 	       ]
 	   }]
 	}
+   }
 }
