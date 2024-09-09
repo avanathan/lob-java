@@ -11,7 +11,12 @@
 	       }, {
 	           "name" : "Test Field 2",
 	           "Format" : "Number",
-	           "Description" : "Test Field"
+	           "Description" : "Test Field 2"
+	           "status" : "hidden"	       
+	       },{
+	           "name" : "Test Field 3",
+	           "Format" : "Text",
+	           "Description" : "Test Field 3"
 	           "status" : "hidden"	       
 	       }
 	       ]
@@ -24,12 +29,12 @@
 	           "Format" : "Dropdown - Single Select",
 	           "Description" : "Test Dropdown"
 	           "status" : "visible",
-	           "options" : ["Option 1", "Option 2"]
+	           "options" : ["Option 1", "Option 2", "Option 3"]
 	       }, {
 	           "name" : "Test Field 2",
 	           "Format" : "Number",
 	           "Description" : "Test Field"
-	           "status" : "hidden"	       
+	           "status" : "visible"	       
 	       }
 	       ]
 	   }]
