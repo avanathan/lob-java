@@ -4,19 +4,19 @@
 	       "name" : "Test Template",
 	       "status" : "visible",
 	       "fields" : [ {
-	           "name"  : "Test Field"
+	           "name"  : "Test Field",
 	           "Format" : "Text",
 	           "Description" : "Test Field"
 	           "status" : "visible"
 	       }, {
 	           "name" : "Test Field 2",
 	           "Format" : "Number",
-	           "Description" : "Test Field 2"
+	           "Description" : "Test Field 2",
 	           "status" : "hidden"	       
 	       },{
 	           "name" : "Test Field 3",
 	           "Format" : "Text",
-	           "Description" : "Test Field 3"
+	           "Description" : "Test Field 3",
 	           "status" : "hidden"	       
 	       }
 	       ]
@@ -25,15 +25,15 @@
 	   	  "name" : "Dropdown Template",
 	       "status" : "visible",
 	       "fields" : [ {
-	           "name"  : "Test Dropdown Field"
+	           "name"  : "Test Dropdown Field",
 	           "Format" : "Dropdown - Single Select",
-	           "Description" : "Test Dropdown"
+	           "Description" : "Test Dropdown",
 	           "status" : "visible",
 	           "options" : ["Option 1", "Option 2", "Option 3"]
 	       }, {
 	           "name" : "Test Field 2",
 	           "Format" : "Number",
-	           "Description" : "Test Field"
+	           "Description" : "Test Field",
 	           "status" : "visible"	       
 	       }
 	       ]
