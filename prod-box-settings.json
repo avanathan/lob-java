@@ -13,7 +13,7 @@
 	       "fields" : [ {
 	           "name"  : "Test Field",
 	           "Format" : "Text",
-	           "Description" : "Test Field"
+	           "Description" : "Test Field",
 	           "status" : "visible"
 	       }, {
 	           "name" : "Test Field 2",
