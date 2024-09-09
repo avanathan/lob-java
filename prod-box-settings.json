@@ -1,5 +1,5 @@
 {
-    "exportDate":"Sep 8, 2024 14:22 PDT",
+    "exportDate":"Sep 8, 2024 14:25 PDT",
     "exportedBy" : "aavanathan",
 	"content": {
 	   "metadata": [{
@@ -31,7 +31,7 @@
 	           "name" : "Test Field 2",
 	           "Format" : "Number",
 	           "Description" : "Test Field"
-	           "status" : "visible"	       
+	           "status" : "hidden"	       
 	       }
 	       ]
 
