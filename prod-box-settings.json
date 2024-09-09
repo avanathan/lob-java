@@ -31,7 +31,7 @@
 	           "name" : "Test Field 2",
 	           "Format" : "Number",
 	           "Description" : "Test Field"
-	           "status" : "hidden"	       
+	           "status" : "visible"	       
 	       }
 	       ]
 
